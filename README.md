@@ -1,2 +1,2 @@
 # CS-255
-This contains my work for the CS-255 course at SNHU.
+The main project for this course was the DriverPass project. The client noticed a void in the market in the area of student driver instruction and training. He wanted us to design a system that would allow student drivers to gain access to driving instruction materials, such as online courses and driving appointments. The system needed to manage purchased packages by the users, vehicles loaned to driving instructors by the company, and the driving instructors themselves.
